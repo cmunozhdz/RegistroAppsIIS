@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Publicación de Aplicaciones",
+  "description": "Formulario y gestión de registro para despliegue y actualización de aplicaciones internas con Google Sheets y Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
